@@ -5,7 +5,7 @@ export default function Home() {
     <div className="min-h-screen bg-gray-900 text-gray-100">
       {/* Hero Section */}
       <section className="flex flex-col items-center justify-center bg-gradient-to-r from-blue-400 to-indigo-600 text-white text-center py-12 px-4">
-        <h1 className="text-5xl font-extrabold">Hello! I'm Subin.</h1>
+        <h1 className="text-5xl font-extrabold">Hello! I&rsquo;m Subin.</h1>
         <p className="mt-3 text-xl">
           Curious about how the world works — science, business, policy, and beyond.
         </p>
@@ -75,7 +75,7 @@ export default function Home() {
             target="_blank"
             className="mt-4 inline-block text-blue-400 hover:underline font-semibold"
           >
-            View on publisher's page
+            View on publisher&rsquo;s page
           </a>
         </div>
 
@@ -90,7 +90,7 @@ export default function Home() {
             target="_blank"
             className="mt-4 inline-block text-blue-400 hover:underline font-semibold"
           >
-            View on publisher's page
+            View on publisher&rsquo;s page
           </a>
         </div>
       </div>
@@ -123,7 +123,7 @@ export default function Home() {
 
       {/* Contact Section */}
       <section id="contact" className="py-16 px-6 bg-gray-900 text-center">
-        <h2 className="text-4xl font-semibold text-white">Let's Connect!</h2>
+        <h2 className="text-4xl font-semibold text-white">Let&rsquo;s Connect!</h2>
         <div className="flex justify-center gap-8 mt-8">
           <a
             href="https://www.linkedin.com/in/subin-kim-b06577141/"
