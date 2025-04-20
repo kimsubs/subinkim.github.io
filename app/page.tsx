@@ -38,7 +38,7 @@ export default function Home() {
         </p>
 
         <p>
-          Outside of the lab, I’m an avid megaformer pilates and Ashtanga yoga enthusiast. I also maintain curated Google Maps lists from cities around the world. 
+        Lately, I’ve been thinking more about translational bottlenecks — what it takes to move scientific insight into impact, and how incentives, institutions, and infrastructure shape that process.
         </p>
 
         </div>
@@ -53,10 +53,10 @@ export default function Home() {
         <div className="bg-gray-800 rounded-lg overflow-hidden shadow-lg hover:shadow-2xl transition-shadow p-6">
           <h3 className="text-xl font-semibold text-white">Human Gut Microbiome</h3>
           <p className="mt-2 text-gray-400">
-            Coming soon!
+            Building an ML classifier to predict disease status (normal vs. type 2 diabetes) from human gut microbiome profiles.
           </p>
           <a
-            // href="https://github.com/yourusername/project1"
+            href="https://github.com/kimsubs/microbiome-disease-classifier"
             target="_blank"
             className="mt-4 inline-block text-blue-400 hover:underline font-semibold"
           >
